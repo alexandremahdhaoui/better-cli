@@ -1,6 +1,6 @@
 # Better CLI
 
-BetterCLI is a go library used to create more complex CLI tools.
+BetterCLI is a go library used to create CLI tools.
 
 ## Features:
 * Provides commands and sub-commands
